@@ -2,7 +2,7 @@ This page contains links to course content that I have created for various cours
 
 ## Instructor  
 
-- PHI 140: Prejudice, Discrimination and Morality (Howe, Spring 2020, SUNY Cortland)
+- [PHI 140: Prejudice, Discrimination and Morality (Howe, Spring 2020, SUNY Cortland)](PHI140-Spring2020)
 - PHI 320: Environmental Ethics (Howe, Fall 2019, SUNY Cortland)
 - PHI 140: Prejudice, Discrimination and Morality (Howe, Fall 2019, SUNY Cortland)
 - PHI 321: Medical Ethics (Howe, Spring 2019, SUNY Cortland)]] 
