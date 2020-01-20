@@ -1,8 +1,8 @@
-#Courses 
+# Courses 
 
 This page contains links to course content that I have created for various courses that I have been an Instructor of Record, TA, or tutor for over the course of my academic career. 
 
-##Instructor of Record 
+## Instructor  
 
 - PHI 140: Prejudice, Discrimination and Morality (Howe, Spring 2020, SUNY Cortland)
 - PHI 320: Environmental Ethics (Howe, Fall 2019, SUNY Cortland)
@@ -28,7 +28,7 @@ This page contains links to course content that I have created for various cours
 - 80-100: What Philosophy Is (Howe, Summer 2009, CMU
 - 80-210: Logic and Proofs (Howe, Summer 2009, CMU) [hybrid] 
 
-##TA Assignments
+## TA Assignments
 
 - PHIL 147: Markets, Ethics and Law (MacClellan, Fall 2013, BU)]] 
 - PHIL 122: Elementary Logic (Dietrich, Fall 2012, BU)
@@ -40,7 +40,7 @@ This page contains links to course content that I have created for various cours
 - 80-100: What Philosophy Is (Norman, Fall 2008-Spring 2009, CMU)
 - PHI 111: Logic (Ashley, Fall 2005, SUNY Cortland)
 
-##Academic Tutoring
+## Academic Tutoring
 
 - PHI 102: Ancient Philosophy (Brown, SUNY OCC) 
 - PHI 102: Ancient Philosophy (Schofield, SUNY OCC) 
