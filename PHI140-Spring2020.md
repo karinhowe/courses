@@ -3,7 +3,7 @@
 Welcome to Prejudice, Discrimination and Morality (PHI 140) for Spring 2020! 
 
 - [Introduction to the Course](introduction.md)
-- Technical Skills Needed for the Course
+- [Technical Skills Needed for the Course](technical_skills.md)
 - Syllabus coming soon! 
 - Course Schedule coming soon! 
 
