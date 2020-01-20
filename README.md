@@ -1,5 +1,3 @@
-# Courses 
-
 This page contains links to course content that I have created for various courses that I have been an Instructor of Record, TA, or tutor for over the course of my academic career. 
 
 ## Instructor  
