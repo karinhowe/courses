@@ -2,7 +2,9 @@
 # SUNY Cortland Spring 2020 Sections 01, 02 and 03
 
 ## Contact Information
+
 Instructor: Karin Howe
+
 Time and Place: Monday/Wednesday/Friday
   Sec 01: 8:00-8:50AM in Old Main G10
   Sec 02: 9:10-10:00AM in Old Main G10
