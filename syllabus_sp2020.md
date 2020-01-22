@@ -53,20 +53,21 @@ Laptop computers or tablet-style computers or e-readers are permitted in class f
 ## Grading Schema
 Grades in this course will be represented on a 12 point scale. The point/grade scale for all of the course components will be as follows:
 
-|  12      | A+ | 7 | B- |
-|  11      | A | 6 | C+ |
-|  10      | A- | 5 | C |
-|  9      | B+ | 4 | C- |
-
-
+**<insert table here>**
 
 When assigning the final grade at the end of the semester, decimals will be rounded up if  .5 or higher (e.g., a final weighted average of 9.5 would be rounded up to a 10, which would be an A-), and rounded down if .49 or lower (e.g., a final weighted average of 9.49 would be rounded down to a 9, which would be an B+). Since we no longer have a final grade of A+, all grades 10.5 or higher will count as an A for the purposes of assigning a final grade.
 
-Coursework
+## Coursework
 Your grade in the course will depend on your performance on the following course components: class participation, weekly reading quizzes, weekly discussion posts, movie reflection paper, campus engagement paper, privilege investigations paper, philosophical book review and four exams (three during the course of the semester and one during finals week). These elements will account for the following fractions of your grade:
 
-Class Participation: 15%			Weekly Discussion Posts: 15%
-Weekly Reading Quizzes: 10%		Papers: 30%	
+Class Participation: 15%	
+
+Weekly Discussion Posts: 15%
+
+Weekly Reading Quizzes: 10%	
+
+Papers: 30%	
+
 Exams: 30%
 
 All of these course components are explained below in some depth, so that you will know what is expected of you.
