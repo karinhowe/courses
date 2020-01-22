@@ -52,7 +52,7 @@ Laptop computers or tablet-style computers or e-readers are permitted in class f
 
 ## Grading Schema
 Grades in this course will be represented on a 12 point scale. The point/grade scale for all of the course components will be as follows:
-| Tables        | Are           | Cool  |
+
 | ------------- |:-------------:| -----:| -----:|
 |  12      | A+ | 7 | B- |
 
