@@ -53,7 +53,7 @@ Laptop computers or tablet-style computers or e-readers are permitted in class f
 ## Grading Schema
 Grades in this course will be represented on a 12 point scale. The point/grade scale for all of the course components will be as follows:
 
-**<insert table here>**
+**insert table here**
 
 When assigning the final grade at the end of the semester, decimals will be rounded up if  .5 or higher (e.g., a final weighted average of 9.5 would be rounded up to a 10, which would be an A-), and rounded down if .49 or lower (e.g., a final weighted average of 9.49 would be rounded down to a 9, which would be an B+). Since we no longer have a final grade of A+, all grades 10.5 or higher will count as an A for the purposes of assigning a final grade.
 
@@ -72,19 +72,19 @@ Exams: 30%
 
 All of these course components are explained below in some depth, so that you will know what is expected of you.
 
-Attendance (affects Participation)
+## Attendance (affects Participation)
 Attendance will be taken at the beginning of every class, although it does not directly contribute to your grade. It is highly recommended that you attend class on a regular basis. One of the components you are being graded on is class participation, and you cannot participate if you are not in class, so frequent non-attendance will hurt your participation grade. Missed classes will count as unexcused unless proper notification is given in a timely fashion (see below for expected timeline for different types of absences):
 
 
-Things that count as excused absences:
-School-related sports absences or other school-related trips (debate club, field trips for other classes, etc.): please give notice of all necessary absences as soon as possible (ideally within the first two weeks of class). You will need to provide an official sports excuse before our absence (you may deliver it to my mailbox in the philosophy department if you not have it in time to give it to me in class before your absence). For other school-related trips other than sports events, please provide some other appropriate form of documentation (if you are unsure what will count as appropriate documentation for your event please discuss it with me sufficiently in advance of the event, but generally an email from the faculty member organizing the event will suffice).
-Religious holidays: these are well-documented events and thus should not come as a surprise, either to you or your instructor. If you will need to be absent for any religious holidays over the course of the semester please inform the instructor at least a week in advance, by email.
-Illness: If you need to miss class because you are ill, please inform the instructor of this via email before the start of class. No documentation or gory details are necessary, please. Important note: mental illness and mental health crises are no different from physical illness, and deserve the same consideration. Again, no documentation or sensitive details are necessary, unless this is going to be an on-going situation for which special accommodations will need to be made.
-Other emergency situations (family emergencies, personal crisis, etc.) on a case-by-case basis – please give as much notice as is possible in these circumstances, and keep in touch if this is going to be an on-going situation.
+### Things that count as excused absences:
+- School-related sports absences or other school-related trips (debate club, field trips for other classes, etc.): please give notice of all necessary absences as soon as possible (ideally within the first two weeks of class). You will need to provide an official sports excuse before our absence (you may deliver it to my mailbox in the philosophy department if you not have it in time to give it to me in class before your absence). For other school-related trips other than sports events, please provide some other appropriate form of documentation (if you are unsure what will count as appropriate documentation for your event please discuss it with me sufficiently in advance of the event, but generally an email from the faculty member organizing the event will suffice).
+- Religious holidays: these are well-documented events and thus should not come as a surprise, either to you or your instructor. If you will need to be absent for any religious holidays over the course of the semester please inform the instructor at least a week in advance, by email.
+- Illness: If you need to miss class because you are ill, please inform the instructor of this via email before the start of class. No documentation or gory details are necessary, please. Important note: mental illness and mental health crises are no different from physical illness, and deserve the same consideration. Again, no documentation or sensitive details are necessary, unless this is going to be an on-going situation for which special accommodations will need to be made.
+- Other emergency situations (family emergencies, personal crisis, etc.) on a case-by-case basis – please give as much notice as is possible in these circumstances, and keep in touch if this is going to be an on-going situation.
 
-Note: coming late to class or leaving early counts as an unexcused absence, unless you speak to the instructor about your need to do so (preferably by email before class) and receive the instructor's okay to come late/leave early. Sleeping in class also counts as being absent for the purposes of participation (you can’t participate if you are sleeping!)
+**Note: coming late to class or leaving early counts as an unexcused absence, unless you speak to the instructor about your need to do so (preferably by email before class) and receive the instructor's okay to come late/leave early. Sleeping in class also counts as being absent for the purposes of participation (you can’t participate if you are sleeping!)**
 
-Policy on Children in Class
+## Policy on Children in Class
 Currently, the university does not have a formal policy on children in the classroom. The policy laid out in this syllabus is a reflection of my own beliefs and commitment to students who are also parents.
 All exclusively breastfeeding babies are welcome in class as often as necessary, and breastfeeding in class will be considered to be normal and unproblematic.
 For older children and babies, I understand that unforeseen disruptions in childcare often put parents in the position of having to miss class to stay home with a child. While this is not meant to be a long-term childcare solution, occasionally bringing a child to class in order to cover gaps in childcare is perfectly acceptable.
