@@ -6,12 +6,9 @@
 Instructor: Karin Howe
 
 Time and Place: Monday/Wednesday/Friday
-
-  Sec 01: 8:00-8:50AM in Old Main G10
-  
-  Sec 02: 9:10-10:00AM in Old Main G10
-  
-  Sec 03: 10:20-11:10 AM in Old Main G10
+- Sec 01: 8:00-8:50AM in Old Main G10
+- Sec 02: 9:10-10:00AM in Old Main G10
+- Sec 03: 10:20-11:10 AM in Old Main G10
 
 Office: Old Main G26 (next to Dragon’s Den)
 Office hours: 
