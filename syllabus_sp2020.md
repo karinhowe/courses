@@ -45,13 +45,16 @@ impact of prejudice and discrimination. Courses could address the individual and
   2. how various beliefs can lead to conflicting conclusions about a society and its norms, values and institutions.
 
 ## Email Policy
-If you have a general question about the course (either content or logistics), please post it on the discussion forum on Blackboard and I will answer it there (or perhaps I’ve already answered your question there, so check first before posting!). **Email me personally __only__ for personal communications** (e.g., needing to be excused from class, needing special accommodations, questions about grades, etc.). This email policy will be strictly enforced, so if you would like a prompt response to your questions please follow the above protocol. This email policy is necessary to save my sanity — I have a significant number of students most semesters, so having all general information queries posted to Blackboard helps make it so I don’t have to answer the same question multiple times.  For all Blackboard posts or emails sent after 5 PM, allow until 1 PM the next day for a response. Response times may be longer on weekends, with the possibility that I may not be able to answer your Blackboard post or email until Monday after my classes.
+If you have a general question about the course (either content or logistics), please post it on the discussion forum on Blackboard and I will answer it there (or perhaps I’ve already answered your question there, so check first before posting!). **Email me personally only for personal communications** (e.g., needing to be excused from class, needing special accommodations, questions about grades, etc.). **This email policy will be strictly enforced**, so if you would like a prompt response to your questions please follow the above protocol. This email policy is necessary to save my sanity — I have a significant number of students most semesters, so having all general information queries posted to Blackboard helps make it so I don’t have to answer the same question multiple times.  For all Blackboard posts or emails sent after 5 PM, allow until 1 PM the next day for a response. Response times may be longer on weekends, with the possibility that I may not be able to answer your Blackboard post or email until Monday after my classes.
 
-Electronic Devices
+## Electronic Devices
 Laptop computers or tablet-style computers or e-readers are permitted in class for class purposes only (taking notes, accessing class texts, etc.). Cell phones are to be off or on silent, and I ask that you refrain from checking your phone during class unless you are an emergency contact for someone (please inform me if that is the case). Any student using an electronic device in an inappropriate manner will be asked to put the device away. Students who are repeat offenders may lose their electronic device privileges (at the discretion of the instructor).
 
-Grading Schema
+## Grading Schema
 Grades in this course will be represented on a 12 point scale. The point/grade scale for all of the course components will be as follows:
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:| -----:|
+|  12      | A+ | 7 | B- |
 
 
 
