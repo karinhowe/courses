@@ -11,9 +11,11 @@ Time and Place: Monday/Wednesday/Friday
 - Sec 03: 10:20-11:10 AM in Old Main G10
 
 Office: Old Main G26 (next to Dragon’s Den)
+
 Office hours: 
-	Mondays, Wednesdays and Fridays: 11:30AM-12:30 PM
-	other times by appointment
+- Mondays, Wednesdays and Fridays: 11:30AM-12:30 PM
+- other times by appointment
+
 Email: karin.howe@cortland.edu
 
 ## Texts
