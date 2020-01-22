@@ -203,3 +203,5 @@ Health Promotion Office: Van Hoesen Hall Room B-1, 607-753-2066; http://www2.cor
 12. The Help Center: located in the main lobby of Memorial Library; http://www2.cortland.edu/library/about/ 
 13. Cortland Writing Center: Brockway Hall Room 216, 607-753-5833; https://www2.cortland.edu/offices/writing-center/ 
 14. SUNY Cortland Cupboard: basement of Interfaith Center (7 Calvert St.), 607-753-2066; http://www2.cortland.edu/cupboard/ 
+
+<small>Created: Spring 2020. Last updated: 1/17/20. Karin Howe, SUNY Cortland.</small>
