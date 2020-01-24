@@ -145,3 +145,5 @@
 - **Section 01: Exam 4 due Monday, May 11 at 10:30 AM**
 - **Section 02: Exam 4 due Wednesday, May 13 at 10:30 AM**
 - **Sec 03: Exam 4 due Friday, May 15 at 10:30 AM**
+
+<small>Created: Spring 2020. Last updated: 1/24/20. Karin Howe, SUNY Cortland.</small>
