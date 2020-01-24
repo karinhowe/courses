@@ -31,8 +31,8 @@
 - The Ethics of Living Jim Crow: An Autobiographical Sketch (Wright), in "Race, Class and Gender in the United States," pp. 23-32 – available on Blackboard
 ### Important Dates:
 - Reading Quiz 2: **due Monday, February 10 by 8 AM**
-- Discussion Post 2: **original post due Monday, February 10 by 5 PM; discussion ends Friday, February 14 at 5 PM
-## Week 4: Privilege and Oppression (February 17-21)**
+- Discussion Post 2: **original post due Monday, February 10 by 5 PM; discussion ends Friday, February 14 at 5 PM**
+## Week 4: Privilege and Oppression (February 17-21)
 ### Readings
 - Privilege, Oppression and Difference (Johnson), in "Privilege, Power and Difference," pp. 12-34 (text for class)
 - What It All Has To Do With Us (Johnson), in "Privilege, Power and Difference," pp. 66-75 (text for class)
