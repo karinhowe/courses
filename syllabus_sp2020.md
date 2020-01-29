@@ -35,14 +35,13 @@ The class will emphasize critical thinking about ethical and political problems 
 
 PHIL 140 satisfies requirements for Category 11 in the General Education program. The 2015-2016 Catalog describes GE11 as follows:
   
-  The goal of this category is for students to reflect critically about the nature and
-impact of prejudice and discrimination. Courses could address the individual and institutional nature of prejudice and discrimination in the American and/or global context; examine various aspects of prejudice and discrimination from multiple intellectual perspectives; examine the factors upon which prejudice and discrimination may be based, for example, race, gender as well as class, ethnicity, religion, age, sexual orientation and disability.
+  The goal of this category is for students to reflect critically about the causes and consequences of prejudice and discrimination from individual to institutional levels. Courses in the category examine the challenges of constructing a more diverse and inclusive society.
   
  **Learning Outcomes**
   
   Students will demonstrate an understanding of: 
-  1. issues such as power and bias as they relate to prejudice and discrimination and how these issues have determined attitudes, institutions, dominance and subdominance;
-  2. how various beliefs can lead to conflicting conclusions about a society and its norms, values and institutions.
+  1. how power and bias, prejudice, and discrimination can affect society’s values, attitudes, and institutions;
+  2. pproaches that address barriers and foster greater equity and inclusivity.
 
 ## Email Policy
 If you have a general question about the course (either content or logistics), please post it on the discussion forum on Blackboard and I will answer it there (or perhaps I’ve already answered your question there, so check first before posting!). **Email me personally only for personal communications** (e.g., needing to be excused from class, needing special accommodations, questions about grades, etc.). **This email policy will be strictly enforced**, so if you would like a prompt response to your questions please follow the above protocol. This email policy is necessary to save my sanity — I have a significant number of students most semesters, so having all general information queries posted to Blackboard helps make it so I don’t have to answer the same question multiple times.  For all Blackboard posts or emails sent after 5 PM, allow until 1 PM the next day for a response. Response times may be longer on weekends, with the possibility that I may not be able to answer your Blackboard post or email until Monday after my classes.
